@@ -1,3 +1,15 @@
+PL 
+Zadanie składa się z dwóch części. 
+Pierwsza to stworzenie tablicy, która będzie powiększana o dodatkową treść.
+Druga polega na aktualizowaniu aplikacji, alby wszystkie wiadomości pojawiały się w konkretnej kolejności, od najstarszej do najnowszej. 
+
+ENG
+The task consists of two parts.
+The first is to create a board that will be expanded with additional content.
+The second is to update the application so that all messages appear in a specific order, from the oldest to the newest.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
